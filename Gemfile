@@ -36,3 +36,5 @@ gem "webrick"
 gem "csv", "~> 3.3"
 
 gem 'logger'
+
+#오류 수정해줘ㅜㅠㅜㅠ
